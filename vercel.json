@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/acceuil.html",
+        "destination": "/accueil.html",
         "statusCode": 308
       }
     ]
